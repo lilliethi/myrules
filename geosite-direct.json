@@ -2,7 +2,7 @@
   "rules": [
     {
       "domain": [
-        "tieba.baidu.com",
+        "tieba.baidu.com"
       ],
       "domain_suffix": [
         "cloudflare.com",
