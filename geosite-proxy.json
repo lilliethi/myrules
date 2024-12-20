@@ -1,0 +1,14 @@
+{
+  "rules": [
+    {
+      "domain": [
+        "v2ex.com",
+      ],
+      "domain_suffix": [
+        "nodeseek.com",
+        "idev.dev"
+      ]
+    }
+  ],
+  "version": 2
+}
