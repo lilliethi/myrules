@@ -2,7 +2,7 @@
   "rules": [
     {
       "domain": [
-        "v2ex.com",
+        "v2ex.com"
       ],
       "domain_suffix": [
         "nodeseek.com",
