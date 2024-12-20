@@ -1,0 +1,25 @@
+{
+  "rules": [
+    {
+      "domain": [
+        "tieba.baidu.com",
+      ],
+      "domain_suffix": [
+        "cloudflare.com",
+        "cloudflare-cn.com",
+        "eueg.eu.org",
+        "quickconnect.cn",
+        "5ddd.com",
+        "ug.link",
+        "hdfans.org",
+        "52pt.site",
+        "ptchina.org",
+        "m-team.cc",
+        "totheglory.im",
+        "alphavps.com",
+        "orangevps.com"
+      ]
+    }
+  ],
+  "version": 2
+}
